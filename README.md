@@ -1,20 +1,14 @@
 ### Hey there! This is Jose Alberto Flores 👋 🧑‍💻
 
-<!--
-**josealbertoflores/josealbertoflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 My GitHub Stats
 
-### GitHub Stats
+![Top Stats](https://github-readme-stats.vercel.app/api?username=josealbertoflores&show_icons=true&theme=react&count_private=true)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
-
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertoflores)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealbertoflores&langs_count=8&theme=react)
 
 ## 📫 You can find me @
 <!-- YOU-CAN-FIND-ME:START -->
 - 🐦 [Twitter](https://twitter.com/josealbertoflo)
 - 🌐 [Website](https://josealbertoflores.me/) 
-<!-- - [Blog](https://blog.josealbertoflores.me/) -->
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/josealbertoflores/)
 <!-- YOU-CAN-FIND-ME:END -->
